@@ -11,5 +11,3 @@ Prefer
     $ npm install
 4. Start project with command:
     $ react-native run-ios
-or
-    $ react-native run-android
